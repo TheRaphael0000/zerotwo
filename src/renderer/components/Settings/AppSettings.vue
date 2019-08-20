@@ -50,6 +50,10 @@ export default {
         englishName: 'German',
         value: 'de',
       }, {
+        name: 'Français',
+        englishName: 'French',
+        value: 'fr',
+      }, {
         name: '日本語',
         englishName: 'Japanese',
         value: 'ja',

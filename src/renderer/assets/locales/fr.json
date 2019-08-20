@@ -1,0 +1,231 @@
+{
+  "$notify": {
+    "texts": {
+      "aniListRefreshRateUpdated": "Taux de rafraîchissement réglé à {refreshRate} minutes!"
+    },
+    "titles": {
+      "success": "Succès!"
+    }
+  },
+  "$vuetify": {
+    "dataIterator": {
+      "nextPage": "Page suivante",
+      "noResultsText": "Aucun résultat",
+      "pageText": "{0}-{1} sur {2}",
+      "prevPage": "Page précédente",
+      "rowsPerPageAll": "Tout",
+      "rowsPerPageText": "Éléments par page"
+    },
+    "dataTable": {
+      "rowsPerPageText": "Éléments par page"
+    },
+    "noDataText": "Aucune donnée"
+  },
+  "aniList": {
+    "listStatus": {
+      "current": "En cours",
+      "dropped": "Abandonné",
+      "finished": "Terminé",
+      "paused": "En pause",
+      "planning": "Planifié",
+      "repeating": "Répété"
+    },
+    "mediaInformation": {
+      "cancelled": "Annulé",
+      "currentlyAiring": "En cours de diffusion",
+      "finished": "Terminé",
+      "finishedAiring": "Diffusion terminée",
+      "notYetAired": "Pas encore diffusé",
+      "notYetReleased": "Pas encore sorti",
+      "releasing": "Sortis"
+    }
+  },
+  "myAnimeList": {
+    "completed": "Terminé",
+    "dropped": "Abandonné",
+    "onHold": "En attente",
+    "planned": "Planifié",
+    "watching": "En cours de visionage"
+  },
+  "system": {
+    "actions": {
+      "add": "Ajouter",
+      "cancel": "Annuler",
+      "close": "Fermer",
+      "delete": "Supprimer",
+      "edit": "Editer",
+      "login": "Connecter",
+      "logout": "Déconnecter",
+      "refreshAniList": "Rafraichir AniList",
+      "refreshMAL": "Rafraichir MAL",
+      "refreshTorrents": "Rafraichir Torrents",
+      "remove": "Supprimer",
+      "reset": "Mise à zéro",
+      "save": "Sauvegarder",
+      "select": "Sélectionner",
+      "submitDelete": "Valider la suppression!"
+    },
+    "constants": {
+      "airingFinished": "Diffusion terminée",
+      "airingIn": "Episode {episode} is airing {time}",
+      "animeTitle": "Titre de l'anime",
+      "autumn": "Automne",
+      "dateFormat": "DD MMM YYYY",
+      "errorResponseTitle": "Mise à jour ratée!",
+      "fall": "Fall",
+      "lastUpdated": "Dernière mise à jour",
+      "loadMore": "Charger plus...",
+      "loading": "Chargement...",
+      "progress": "Progrès",
+      "score": "Score",
+      "season": "Saison",
+      "spring": "Printemps",
+      "summer": "Été",
+      "toFinished": "Terminé",
+      "unknown": "Inconnu",
+      "updated": {
+        "text": "{title} a été correctement mis à jour!",
+        "title": "Anime mis à jour!"
+      },
+      "winter": "Hiver"
+    },
+    "error": {
+      "messages": {
+        "notFoundOrAdultContent": "Si le média est considéré comment contenu mature, veuillez activer 'Contenu 18+' dans les options sur AniList.co!",
+        "numberInsufficient": "Ce nombre n'est pas suffisant!"
+      },
+      "titles": {
+        "fatalError": "Erreur fatale!",
+        "notFound": "Introuvable!"
+      }
+    },
+    "informationModal": {
+      "adultContent": "Ce media est considéré comme mature. Faites attention à ce qui peut se trouver dernière vous!",
+      "airingTime": "Heure de diffusion",
+      "anime": "Anime",
+      "clear": "Mettre 0 étoiles",
+      "created": {
+        "text": "Créé avec succès!",
+        "title": "Créé!"
+      },
+      "dataInformation": "Information de votre liste",
+      "dateFormat": "DD MMM YYYY",
+      "deleteModalHeader": "Confirmer la suppression?",
+      "deleted": {
+        "text": "Supprimé avec succès!",
+        "title": "Supprimé!"
+      },
+      "description": "Description",
+      "doYouReallyWantToDelete": "Voulez-vous vraiment supprimer {title} de votre liste?",
+      "dropdownPlaceholder": "Veuillez sélectionner...",
+      "englishName": "Nom anglais",
+      "episodes": "Épisodes",
+      "errorResponseTitle": "Mise à jour ratée!",
+      "inputRequired": "Entrées requises!",
+      "japaneseName": "Nom japonais",
+      "manga": "Manga",
+      "noEnglishName": "Pas de nom anglais",
+      "noJapaneseName": "Pas de nom japonais",
+      "noSynonyms": "Pas de synonymes",
+      "ownRating": "Votre note",
+      "ownStatus": "Votre status",
+      "rating": "Note",
+      "ratingError": "La note est en dessous ou en dessus des valeurs authorisées!",
+      "seriesInformation": "Infomation sur les series",
+      "seriesStatus": "Status des series",
+      "sinceDate": "Depuis {date}",
+      "synonyms": "Synonymes",
+      "type": "Type of de series",
+      "unknownDate": "Date inconnue",
+      "updated": {
+        "text": "Mise à jour réussi!",
+        "title": "Mis à jour!"
+      },
+      "watchedEpisodes": "Épisodes regardés"
+    },
+    "listStatus": {
+      "completed": "Terminé",
+      "dropped": "Abandonné",
+      "onHold": "En attente",
+      "planned": "Planifié",
+      "repeating": "En cours de répétition",
+      "watching": "En cours de visionage"
+    },
+    "menu": {
+      "listStatus": {
+        "home": "Accueil",
+        "completed": "Terminé ({amount})",
+        "dropped": "Abandonné ({amount})",
+        "onHold": "En attente ({amount})",
+        "planned": "Planifié ({amount})",
+        "repeating": "En cours de répétition ({amount})",
+        "watching": "En cours de visionage ({amount})"
+      },
+      "search": {
+        "headline": "Fenêtre de recherche",
+        "noResults": "Aucun résultat trouvé",
+        "notInList": "Pas dans votre liste",
+        "search": "Recherche ..."
+      }
+    },
+    "modules": {
+      "aniList": "AniList",
+      "myAnimeList": "MyAnimeList",
+      "torrents": "Torrents"
+    },
+    "settings": {
+      "aboutZeroTwo": {
+        "link": "Clique moi",
+        "version": "Version"
+      },
+      "aniList": {
+        "accountSettings": "Paramètres du compte",
+        "aniListRefreshRate": "Intervalle de rafraîchissement (en minutes)",
+        "hintTableHeaders": "Choisisez les colonnes qui doivenet être affiché dans le tableau.",
+        "loggedInAs": "Connecté en tant que",
+        "minutes": "Minutes",
+        "tableHeaders": {
+          "HEADER_GENRE": "Genre",
+          "HEADER_LASTUPDATED": "Dernière mise à jour",
+          "HEADER_PROGRESS": "Progrès",
+          "HEADER_SCORE": "Score",
+          "HEADER_SEASON": "Saison",
+          "HEADER_TITLE": "Titre"
+        },
+        "tableHeadersError": "Seulement jusque à 4 colonnes sont configurable!",
+        "tableHeadersLabel": "Ajouter une nouvelle colonne au tableau."
+      },
+      "appSettings": {
+        "changeLanguage": "Changer de langue",
+        "chooseLanguage": "Choisir la langue",
+        "setAppLanguage": "Définir la langue de l'app"
+      },
+      "menu": {
+        "aboutZeroTwo": "À propos de ZeroTwo",
+        "aniList": "AniList",
+        "appSettings": "Paramètres de l'app",
+        "myAnimeList": "MyAnimeList",
+        "restoreFactoryData": "Mise à zéro des paramètres",
+        "specialThanks": "Remerciements"
+      },
+      "myAnimeList": {
+        "accountSettings": "Paramètres du compte",
+        "credentialsCouldNotBeVerifiedOrTooManyLoginAttempts": "<p>Vos informations de connexion ne sont pas correct et n'ont pas pu être vérifiée.</p><p>Si vous n'êtes sur que vos informations de connexion sont correctes, vous avez peut-être essayer de vous connectez trop de fois!</p><p>Si cela vous correspond, réessayer dans une à six heures...</p>",
+        "credentialsWrongOrTooManyLoginAttempts": "Mauvaise informations de connexion ou trop de tentatives de connexion!",
+        "enterCredentials": "Veuillez entrer vos information de connexion pour vous connectez.",
+        "loggedInAs": "Connecté en tant que",
+        "loginData": "Donnée de connexion",
+        "malRefreshRate": "Intervalle de rafraîchissement (en minutes)",
+        "noCredentials": "No credentials!",
+        "password": "Mot de passe",
+        "username": "Nom d'utilisateur"
+      },
+      "restoreFactoryData": {
+        "confirmRestoration": "Oui, Je désire remettre à zéro les paramètres!",
+        "pressWithinToRestore": "{seconds} seconde(s) jusque à ce que le bouton reviennent à son état normal.",
+        "restore": "Mise à zéro"
+      },
+      "title": "Paramètres"
+    }
+  }
+}

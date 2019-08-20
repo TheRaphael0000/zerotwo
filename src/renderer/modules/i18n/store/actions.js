@@ -11,6 +11,7 @@ export default {
     const singleCodeLanguages = [
       'ar', // Arabic
       'de', // German
+      'fr', // French
       'en', // English
       'ja', // Japanese
       'zh', // Chinese

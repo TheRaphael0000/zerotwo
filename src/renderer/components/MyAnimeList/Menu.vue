@@ -129,6 +129,22 @@ export default {
     "settings": "Einstellungen",
     "noResults": "Es wurden keine Ergebnisse gefunden"
   },
+  "fr": {
+    "myAnimeList": "MyAnimeList",
+    "aniList": "AniList",
+    "torrents": "Torrents",
+    "refreshMAL": "Rafraichir MAL",
+    "refreshAniList": "Rafraichir AniList",
+    "watching": "En cours de visionage",
+    "completed": "Terminé",
+    "onHold": "En pause",
+    "dropped": "Abandonné",
+    "planned": "Planifié",
+    "notInList": "Pas dans votre liste",
+    "searchAnime": "Chercher...",
+    "settings": "Paramètres",
+    "noResults": "Aucun résultat trouvé"
+  },
   "ja": {
     "myAnimeList": "MyAnimeList",
     "aniList": "AniList",
